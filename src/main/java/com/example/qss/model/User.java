@@ -28,12 +28,7 @@ public class User {
     private List<Address> addresses = new ArrayList<>();
 
 
-   // testing git
-    // second commit
-    //3rd commit
-    
-    // 1st change after pushing project to remote
-    //commit without staging
+   // branch changes
     
     public User() {
     }
