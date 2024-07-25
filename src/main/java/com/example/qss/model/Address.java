@@ -27,7 +27,7 @@ public class Address {
     @JoinColumn(name = "user_id")
     private User user;
 
-    
+    // after merging adding new features
     
     public Address() {
     }
